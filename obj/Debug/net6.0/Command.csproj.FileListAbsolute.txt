@@ -1,0 +1,5 @@
+/home/runner/Plugin/obj/Debug/net6.0/Command.csproj.AssemblyReference.cache
+/home/runner/Plugin/obj/Debug/net6.0/Command.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Plugin/obj/Debug/net6.0/Command.AssemblyInfoInputs.cache
+/home/runner/Plugin/obj/Debug/net6.0/Command.AssemblyInfo.cs
+/home/runner/Plugin/obj/Debug/net6.0/Command.csproj.CoreCompileInputs.cache

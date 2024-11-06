@@ -1,0 +1,14 @@
+/home/runner/Plugin/obj/Debug/net6.0/Plugin.csproj.AssemblyReference.cache
+/home/runner/Plugin/obj/Debug/net6.0/Plugin.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Plugin/obj/Debug/net6.0/Plugin.AssemblyInfoInputs.cache
+/home/runner/Plugin/obj/Debug/net6.0/Plugin.AssemblyInfo.cs
+/home/runner/Plugin/obj/Debug/net6.0/Plugin.csproj.CoreCompileInputs.cache
+/home/runner/Plugin/bin/Debug/net6.0/WhiteList.deps.json
+/home/runner/Plugin/bin/Debug/net6.0/WhiteList.dll
+/home/runner/Plugin/bin/Debug/net6.0/WhiteList.pdb
+/home/runner/Plugin/bin/Debug/net6.0/TShockAPI.dll
+/home/runner/Plugin/obj/Debug/net6.0/Plugin.csproj.CopyComplete
+/home/runner/Plugin/obj/Debug/net6.0/WhiteList.dll
+/home/runner/Plugin/obj/Debug/net6.0/refint/WhiteList.dll
+/home/runner/Plugin/obj/Debug/net6.0/WhiteList.pdb
+/home/runner/Plugin/obj/Debug/net6.0/ref/WhiteList.dll

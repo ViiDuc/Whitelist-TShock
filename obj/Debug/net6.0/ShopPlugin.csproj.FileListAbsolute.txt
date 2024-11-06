@@ -1,0 +1,15 @@
+/home/runner/Plugin/obj/Debug/net6.0/ShopPlugin.csproj.AssemblyReference.cache
+/home/runner/Plugin/obj/Debug/net6.0/ShopPlugin.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Plugin/obj/Debug/net6.0/ShopPlugin.AssemblyInfoInputs.cache
+/home/runner/Plugin/obj/Debug/net6.0/ShopPlugin.AssemblyInfo.cs
+/home/runner/Plugin/obj/Debug/net6.0/ShopPlugin.csproj.CoreCompileInputs.cache
+/home/runner/Plugin/bin/Debug/net6.0/Shop.deps.json
+/home/runner/Plugin/bin/Debug/net6.0/Shop.dll
+/home/runner/Plugin/bin/Debug/net6.0/Shop.pdb
+/home/runner/Plugin/bin/Debug/net6.0/TShockAPI.dll
+/home/runner/Plugin/bin/Debug/net6.0/Wolfje.Plugins.SEconomy.dll
+/home/runner/Plugin/obj/Debug/net6.0/ShopPlugin.csproj.CopyComplete
+/home/runner/Plugin/obj/Debug/net6.0/Shop.dll
+/home/runner/Plugin/obj/Debug/net6.0/refint/Shop.dll
+/home/runner/Plugin/obj/Debug/net6.0/Shop.pdb
+/home/runner/Plugin/obj/Debug/net6.0/ref/Shop.dll
