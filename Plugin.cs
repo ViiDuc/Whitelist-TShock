@@ -9,7 +9,7 @@ using Newtonsoft.Json;
 using Microsoft.Xna.Framework;
 using System.Drawing;
 
-
+[ApiVersion(2, 1)]
 namespace TShockPluginWhitelist
 {
     public class WhitelistPlugin : TerrariaPlugin
