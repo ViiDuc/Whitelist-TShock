@@ -15,7 +15,7 @@ namespace WhitelistPlugin
         private HashSet<string> whitelistedPlayers;
 
         public override string Name => "Whitelist Plugin";
-        public override string Author => "Your Name";
+        public override string Author => "ViiDuc";
         public override string Description => "A simple whitelist plugin for TShock 5.2";
         public override Version Version => new Version(1, 0);
 
