@@ -68,7 +68,7 @@ namespace WhitelistPlugin
         {
             if (!File.Exists(WhitelistFilePath))
             {
-                Directory.CreateDirectory("tshock"); // Tạo thư mục tshock nếu chưa tồn tại
+                Directory.CreateDirectory("tshock");
                 File.WriteAllText(WhitelistFilePath, JsonConvert.SerializeObject(new List<string>(), Formatting.Indented));
             }
 
